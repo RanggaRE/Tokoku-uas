@@ -10,9 +10,8 @@ Tokoku merupakan aplikasi Sistem Informasi Kasir & Gudang yang dibangun mengguna
 
 ## Struktur Project
 
-/
-├── tokoku-backend/    # Backend Laravel API
-└── index.html         # Frontend
+- tokoku-backend/    # Backend Laravel API
+- index.html         # Frontend
 
 ## Cara Menjalankan
 
